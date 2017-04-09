@@ -1,93 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="#8BC61B"
-    android:orientation="vertical">
+    android:layout_height="match_parent">
 
-   <ScrollView
-       android:fillViewport="true"
-       android:layout_width="match_parent"
-       android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/bgTabSelected">
 
-       <LinearLayout
-           android:layout_width="match_parent"
-           android:layout_height="match_parent"
-           android:orientation="vertical">
+        <LinearLayout
+            android:id="@+id/summaryMessage"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
 
-           <LinearLayout
-               android:layout_width="match_parent"
-               android:layout_height="wrap_content"
-               android:orientation="vertical">
+            <android.support.v7.widget.AppCompatTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="Hello Frank Jacobs."
+                android:textColor="@android:color/white"
+                android:textSize="22sp" />
 
-               <android.support.v7.widget.AppCompatTextView
-                   android:gravity="center"
-                   android:layout_width="match_parent"
-                   android:layout_height="wrap_content"
-                   android:layout_weight="1"
-                   android:padding="5dp"
-                   android:text="Hello Frank Jacobs."
-                   android:textColor="@android:color/white"
-                   android:textSize="22sp" />
+            <android.support.v7.widget.AppCompatTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="Your account balance is"
+                android:textColor="@android:color/white"
+                android:textSize="22sp" />
 
-               <android.support.v7.widget.AppCompatTextView
-                   android:gravity="center"
-                   android:layout_width="match_parent"
-                   android:layout_height="wrap_content"
-                   android:layout_weight="1"
-                   android:padding="5dp"
-                   android:text="Your account balance is"
-                   android:textColor="@android:color/white"
-                   android:textSize="22sp" />
+            <android.support.v7.widget.AppCompatTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="30,000"
+                android:textColor="#0056B8"
+                android:textSize="36sp" />
 
-               <android.support.v7.widget.AppCompatTextView
-                   android:gravity="center"
-                   android:layout_width="match_parent"
-                   android:layout_height="wrap_content"
-                   android:layout_weight="1"
-                   android:padding="5dp"
-                   android:text="30,000"
-                   android:textColor="#0056B8"
-                   android:textSize="36sp" />
-
-               <android.support.v7.widget.AppCompatTextView
-                   android:gravity="center"
-                   android:layout_width="match_parent"
-                   android:layout_height="wrap_content"
-                   android:layout_weight="1"
-                   android:padding="5dp"
-                   android:text="it's look pretty perfect for you"
-                   android:textColor="@android:color/white"
-                   android:textSize="22sp" />
+            <android.support.v7.widget.AppCompatTextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:padding="5dp"
+                android:text="it's look pretty perfect for you"
+                android:textColor="@android:color/white"
+                android:textSize="22sp" />
 
 
-           </LinearLayout>
+        </LinearLayout>
 
-           <LinearLayout
-               android:layout_width="match_parent"
-               android:layout_height="match_parent"
-               android:orientation="vertical">
+        <com.github.mikephil.charting.charts.PieChart
+            android:id="@+id/pieChart"
+            android:layout_width="match_parent"
+            android:layout_height="400dp">
 
-               <com.github.mikephil.charting.charts.PieChart
-                   android:id="@+id/pieChart"
-                   android:layout_width="match_parent"
-                   android:layout_height="match_parent">
+        </com.github.mikephil.charting.charts.PieChart>
 
-               </com.github.mikephil.charting.charts.PieChart>
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/recyclerHopeList"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:scrollbars="vertical">
 
-           </LinearLayout>
+        </android.support.v7.widget.RecyclerView>
 
-           <android.support.v7.widget.RecyclerView
-               android:id="@+id/recyclerHopeList"
-               android:layout_width="match_parent"
-               android:layout_height="wrap_content"
-               android:scrollbars="vertical">
+    </LinearLayout>
 
-           </android.support.v7.widget.RecyclerView>
-
-
-       </LinearLayout>
-
-   </ScrollView>
-
-</LinearLayout>
+</ScrollView>
