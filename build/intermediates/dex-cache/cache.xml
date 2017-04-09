@@ -2,202 +2,49 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.android\build-cache\8058d828008a2e29163e53caa94fa805da8418e3\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_8d0533d14ab139b04876f1991f7fc50e6bb4dbdf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.android\build-cache\78724cd228d641faf0d69ec75f81beaed2af2af5\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_b7b63ec2467abd761acbbe6221b7da27a3a286c3.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.android\build-cache\576045055707bbedc83234abdeab8bed3d9bb340\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_ea440f6e8a5ee97731d7851349584c14035d87c2.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.android\build-cache\1fa1e1cb34e833923fa75b922450bdca4c836224\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_d6f57bba43de4066f0065bec7fa2483cd35913a8.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.android\build-cache\688df50f0597952a442309a466585f9404c0dd3e\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="95519720620b553f63afc789beba9ad582807f7c">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_78dba3595bed1d994015ad539925f0340502ef62.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.android\build-cache\7e8543d497c07c916de865d7d49cbd3984cda715\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_2e72325b64ddb1cde75740d8d72313c9c053c29a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.android\build-cache\69de43b679c4ec7d251c02a729f6886c98ec985c\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_45177c10f1dbf7bd01689d8cb380bad12e773d39.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.android\build-cache\3e8b69d809fe6e648e3a4f9b60d9f64d35fda561\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_567b35e1ceff782eb88e01b5d9c351b49a7bc0bf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.android\build-cache\9a5f4af76b870fd5d23aa2c2a080a1cb6e269c43\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_98489373310f0ae61c23777ec4c6d57b5bce11f6.jar" />
-    </item>
-    <item
         is-multidex="true"
-        jar="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="C:\Users\Phuwarin Janaphon\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.8\cf615176cd1177edf71d3c9605f8dc148fede6be\otto-1.3.8.jar"
         jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_edb501c4a8efd13e8d94696df3e8b8bb7efa6633\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.android\build-cache\6fb5efcb62cbc8b48f240f32eb48f87900cef586\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_451cbdaabfe9a813933f7726b6936e7eb08819b5.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.android\build-cache\cc3e4c04215a519aee62b11968da6a6337c83100\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_a9d5256f66675f92c94c21bde21b0aeee38a3e61.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\support-annotations-25.3.1_cfa7e4f6acdbb5a37cc4fde833ccf160c11355f4.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\Desktop\PigPock\TheCheeseLibrary\build\intermediates\bundles\default\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3a71aafddae487aeaa57f9159cd34b75eee07426">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_4d3ab179ec3587fb0443b3ad6b6cebe226556742.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.2\5d4eb08a326bdbd7fbbddc769666898c9936b282\MPAndroidChart-v3.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\MPAndroidChart-v3.0.2_6c0a5fb36afd93930222930f87172c0df5c4d58e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.android\build-cache\7fa7f83efc0da3be676790d4c94c5ad0cd1db1db\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_e93aabc11a863dd0d1ed3c6e4434012bdc8b1a03.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_46e37c71cff63c62d982cbdbe285d0b1694dfd7e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.android\build-cache\e148b45e6a815e8960a25827400302567bead3f6\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6f4877a9f0a653e193bfb600379e4bfc8472be47">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_df4b9537879fc7ec047fc377993fa306392eee16.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.android\build-cache\63e5870109c0c568b86616bb271e15271a771ec7\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_995cfe1e5ba5c7b7dfe64f3a641275662ada0713.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.gradle\caches\modules-2\files-2.1\com.squareup\otto\1.3.8\cf615176cd1177edf71d3c9605f8dc148fede6be\otto-1.3.8.jar"
-        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\otto-1.3.8_9883885fca9e6a57f4ca8358ef3b9c5105408847.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MeesercleNote\.android\build-cache\bc8d8720aaff38c23fe1064cdd0ab82f2172ca9e\output\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\pre-dexed\debug\classes_a0d3d0ee97e7d75f82dcec17101b50f822f89c5e.jar" />
+        <dex dex="D:\Users\Phuwarin Janaphon\Documents\PiggyPock\app\build\intermediates\transforms\dex\debug\folders\1000\10\otto-1.3.8_3d112c69bd4b86ef9d9c3af600be1581cc3759ff\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="D:\Users\Phuwarin Janaphon\Documents\PiggyPock\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="76217cdcd7575cc974f2d213cd226a52c1b3b5bf">
-        <dex dex="C:\Users\MeesercleNote\Desktop\PigPock\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ab02ae65a1e11ef89a1cbb8af53053280b3fee0a\classes.dex" />
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="D:\Users\Phuwarin Janaphon\Documents\PiggyPock\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6eb43bde6fd89774a77564d7d357a9b3cc8e898b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Phuwarin Janaphon\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.2\5d4eb08a326bdbd7fbbddc769666898c9936b282\MPAndroidChart-v3.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="D:\Users\Phuwarin Janaphon\Documents\PiggyPock\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.2_9361b89819941bd1909ed57c1e0c4b48cd61ca6b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Users\Phuwarin Janaphon\Documents\PiggyPock\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0430dbb947b11e36896718e4a1d7c232b84c91a8">
+        <dex dex="D:\Users\Phuwarin Janaphon\Documents\PiggyPock\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_467d2411a8ca1ac068da354020058103b4e8f866\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Phuwarin Janaphon\.android\build-cache\0214806b69cafa40f2f2fd70e881d28faa92ad20\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6f4877a9f0a653e193bfb600379e4bfc8472be47">
+        <dex dex="D:\Users\Phuwarin Janaphon\Documents\PiggyPock\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4298ac69046112b0ce41e4446a195668f6691563\classes.dex" />
     </item>
 
 </items>
